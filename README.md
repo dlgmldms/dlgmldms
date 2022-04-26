@@ -1,5 +1,5 @@
 ### 안녕하세요 👋 SEB CC이희은이에요.
-# ##22.04.26 콘솔 사용학습
+#22.04.26 콘솔 사용학습
 
 <!--
 **dlgmldms/dlgmldms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
